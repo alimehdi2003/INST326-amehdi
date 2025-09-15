@@ -1,0 +1,14 @@
+AI Usage Journal
+Abbas Mehdi
+amehdi@terpmail.umd.edu
+Section 0203
+Week 1
+
+The beginning week of the semester I used GEMENI AI to figure out what formatting mistakes I made in my print statements
+that involved f strings and printing the numeric outputs of variables. I also needed to understand what syntax errors I made.
+I asked GEMENI to help me understand python concepts that I found to be foreign and forgotten such as slicing as well understanding
+the type() comamand. I was a bit stumped when it came to some of the exercise computations unsure why the output value wasn't rounded to two decimal places
+debugging and asking me to show the correct format. I also found extracting specific parts of a string (prefix, section, cutter) using only .find()/.rfind() 
+and slicing can be tricky. 
+
+I usually prefer using Chat GPT but since GEMENI has already part of the jupyter file it more reliable to use rather paste code on Chat GPT
