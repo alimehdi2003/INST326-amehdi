@@ -26,3 +26,10 @@ Regarding this week's exercises, I realized that I needed to pay closer attentio
 Another area where I needed practice was with conditionals and booleans. Checking availability, flipping between True and False, and setting up if and else branches sometimes felt confusing, but seeing working examples helped me figure out the patterns. I also learned how to use string methods like .strip(), .lower(), .upper(), and title() to clean up and compare text. This was especially useful when building functions that search for titles or match prefixes.
 
 Working with lists was another challenge. I had to understand the difference between looping by index and looping directly over items, and it took practice to see when each approach was better.
+
+
+Week 4:
+For Week 4, I relied heavily on AI assistance to complete the exercises because they were difficult for me to solve on my own. Each exercise asked for defining a new class, setting up attributes with an `__init__` method, and writing one or more instance methods. While I understood the overall goals, I struggled with remembering the exact syntax and figuring out how to connect attributes and methods correctly. Because of that, I asked the AI for help on all 20 exercises.
+
+After running the tests, I could see that the methods produced the expected results. This process helped me learn by example, even though I wasn’t always able to write the code independently. I now realize that I need more practice applying these ideas without step-by-step guidance so I can grow my confidence and problem-solving skills in Python.
+
