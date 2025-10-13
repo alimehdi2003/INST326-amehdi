@@ -33,3 +33,6 @@ For Week 4, I relied heavily on AI assistance to complete the exercises because 
 
 After running the tests, I could see that the methods produced the expected results. This process helped me learn by example, even though I wasn’t always able to write the code independently. I now realize that I need more practice applying these ideas without step-by-step guidance so I can grow my confidence and problem-solving skills in Python.
 
+Week 5:
+AI Usage to brainstorm various function ideas for the function library. It helped me in seeing what has been done in class and what concepts seemed foreign to me and have not been taught in class. Trying to understand group member-created functions and to differentiate between complex and simple functions.  
+
