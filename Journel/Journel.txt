@@ -36,3 +36,8 @@ After running the tests, I could see that the methods produced the expected resu
 Week 5:
 AI Usage to brainstorm various function ideas for the function library. It helped me in seeing what has been done in class and what concepts seemed foreign to me and have not been taught in class. Trying to understand group member-created functions and to differentiate between complex and simple functions.  
 
+
+Week 6:
+
+I asked the AI to give me examples of how to create a class, define attributes, and write methods. It showed me step-by-step examples that I could run and test in my code editor. When I made mistakes, I used AI to explain the error messages and help me fix them. I also asked it to compare OOP to procedural programming, which helped me understand why OOP is more organized and reusable. What I liked most was that AI could adapt to my level of understanding. If something didn’t make sense, I could ask for a different explanation or a real-life analogy. 
+
