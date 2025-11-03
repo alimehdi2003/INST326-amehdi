@@ -41,3 +41,8 @@ Week 6:
 
 I asked the AI to give me examples of how to create a class, define attributes, and write methods. It showed me step-by-step examples that I could run and test in my code editor. When I made mistakes, I used AI to explain the error messages and help me fix them. I also asked it to compare OOP to procedural programming, which helped me understand why OOP is more organized and reusable. What I liked most was that AI could adapt to my level of understanding. If something didn’t make sense, I could ask for a different explanation or a real-life analogy. 
 
+
+Week 7: 
+For our Project proposal, AI was used to help structure and organize our ideas into a clear and functional plan. Specifically, AI helped us outline the different levels of functions for our Function Library, from simple validation and formatting utilities to more complex operations like generating annual summaries and financial reports. This made it easier to understand how smaller, reusable helper functions could build up into larger, more advanced features for our budgeting system.
+
+AI also helped suggest naming conventions, consistent parameter use, and realistic return types, which made the code easier to read and maintain. It provided examples of outputs and data structures
