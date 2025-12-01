@@ -46,3 +46,16 @@ Week 7:
 For our Project proposal, AI was used to help structure and organize our ideas into a clear and functional plan. Specifically, AI helped us outline the different levels of functions for our Function Library, from simple validation and formatting utilities to more complex operations like generating annual summaries and financial reports. This made it easier to understand how smaller, reusable helper functions could build up into larger, more advanced features for our budgeting system.
 
 AI also helped suggest naming conventions, consistent parameter use, and realistic return types, which made the code easier to read and maintain. It provided examples of outputs and data structures
+
+Week 8:
+
+While doing Week 8 exercises, I was unsure about how responsibilities should be split between the parent LibraryMember class and its subclasses, and I found the instructions about when and how to override methods, especially max_concurrent_loans(). I also had difficulty understanding when to use super() correctly in constructors and how to choose which attributes belonged in the base class versus the child classes. I asked AI to explain these concepts, rephrase the assignment instructions, and help me understand common structural mistakes in object-oriented programming
+
+Week 9: 
+
+I am still struggling with comprehending how classes can work in Python, and abstract classes for this week's exercises required me to use Gemini to understand how abstract properties work. Learning how to add them was confusing. I also needed clarification on how abstract properties differ from regular properties, how to layer decorators like @property and @abstractmethod correctly, and how abstract class methods are supposed to be implemented in subclasses. Concepts like virtual subclass registration with LibraryItem.register(), implementing interfaces through Protocols, and writing template methods that depend on abstract hooks were also confusing at first.
+
+
+Week 10: 
+
+I had to come up with two classes to integrate into my group's Python project, where we are creating a budget app. I was confused about what kind of original classes I had to come up with two classes to integrate into my group’s Python project, where we are creating a budget app. I was confused about what kind of classes would make sense for our design, how much responsibility each class should have, and how they should interact with the existing classes, like Budget and Transaction.
