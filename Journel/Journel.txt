@@ -59,3 +59,11 @@ I am still struggling with comprehending how classes can work in Python, and abs
 Week 10: 
 
 I had to come up with two classes to integrate into my group's Python project, where we are creating a budget app. I was confused about what kind of original classes I had to come up with two classes to integrate into my group’s Python project, where we are creating a budget app. I was confused about what kind of classes would make sense for our design, how much responsibility each class should have, and how they should interact with the existing classes, like Budget and Transaction.
+
+
+Week 12: 
+My group and I mainly used AI to help us understand the coding concepts behind the parts of our project we were refining from earlier work. When we were updating our classes like Category, Transaction, and Account, AI helped explain why certain design choices made sense and how different pieces of the code interacted. We used it to understand errors, clarify object-oriented programming ideas, and make sure our logic stayed consistent. Understanding and applying Python OOP concepts is very difficult even at this stage of the semester, considering how much thought and time is taken into understanding and trying to debug errors in our program. 
+
+
+
+Week 13: 
