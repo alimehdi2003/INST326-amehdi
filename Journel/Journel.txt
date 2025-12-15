@@ -67,3 +67,5 @@ My group and I mainly used AI to help us understand the coding concepts behind t
 
 
 Week 13: 
+
+My group used AI to finalize and help refine our final project. AI was used to help reason about how classes should interact, especially how accounts, categories, and different transaction types work together through shared interfaces. AI was also used to support decisions around keeping responsibilities separate, such as keeping balance calculations inside accounts and keeping transaction behavior inside the transaction classes. While developing and testing the system, AI helped the group think through consistency issues, such as how balances should be reconstructed from transaction history rather than stored directly.
